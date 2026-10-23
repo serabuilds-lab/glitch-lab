@@ -1,0 +1,14 @@
+{
+  "name": "glitch-lab",
+  "title": "Glitch Lab",
+  "description": "Live WebGL glitch shader with sliders and presets, recreating a Figma Weave glitch effect in plain code.",
+  "type": "web",
+  "pages": true,
+  "pages_dir": ".",
+  "build": "",
+  "topics": ["pixel-playdough", "webgl", "glsl", "shader", "javascript"],
+  "clickup_task": "z8mkq4gbfp",
+  "source_url": "https://www.instagram.com/p/DbqricqNP8I/",
+  "creator": "@alfiemotion",
+  "original_tool": "Figma Weave"
+}
